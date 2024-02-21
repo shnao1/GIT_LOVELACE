@@ -29,3 +29,7 @@
 - git add . "Todos"
 - git add *.js "Para agregar algunos archivos con una extension en especifico"
 - git add index.js "Un archivo en especifico"
+
+2. tomar la foto del codigo (crear una nueva version)
+
+- git commit -m "nombre del commit"
